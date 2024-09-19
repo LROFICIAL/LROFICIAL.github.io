@@ -2539,6 +2539,7 @@ const data = [
     { name: "Steve Jobs - 2015 [Disponível categoria Filmes: Drama] ✔️", defaultColor: "green", color: "green" },
     { name: "Stillwater - 2021 [Disponível categoria Filmes: Drama] ✔️", defaultColor: "green", color: "green" },
     { name: "Stuck - 2019 [Disponível categoria Filmes: Drama] ✔️", defaultColor: "green", color: "green" },
+    { name: "The Doors: O Mito de Uma Geracao - 1991 [Disponível categoria Filmes: Drama] ✔️", defaultColor: "green", color: "green" },
     { name: "Tigerland - A Caminho da Guerra - 2000 [Disponível categoria Filmes: Drama] ✔️", defaultColor: "green", color: "green" },
     { name: "Tina - A Verdadeira História de Tina Turner - 1993 [Disponível categoria Filmes: Drama] ✔️", defaultColor: "green", color: "green" },
     { name: "Tio Frank - 2020 [Disponível categoria Filmes: Drama] ✔️", defaultColor: "green", color: "green" },
