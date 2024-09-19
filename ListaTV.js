@@ -5500,6 +5500,7 @@ const data = [
     { name: "WILL TRENT AGENTE ESPECIAL (2023) [Disponível em: SÉRIES] ✔️", defaultColor: "green", color: "green" },
     { name: "JOVEM SHELDON (2017)[Disponível em: SÉRIES] ✔️", defaultColor: "green", color: "green" },
     { name: "JUSTIÇA 2 (2024) [Disponível em: SÉRIES] ✔️", defaultColor: "green", color: "green" },
+    { name: "KAOS (2024) [Disponível em: SÉRIES] ✔️", defaultColor: "green", color: "green" },
     { name: "TRUE DETECTIVE (2014) [Disponível em: SÉRIES] ✔️", defaultColor: "green", color: "green" },
     { name: "BEBE RENA (2024) [Disponível em: SÉRIES] ✔️", defaultColor: "green", color: "green" },
     { name: "GAROTOS DETETIVES MORTOS (2024) [Disponível em: SÉRIES] ✔️", defaultColor: "green", color: "green" },
