@@ -1787,6 +1787,7 @@ const data = [
     { name: "Talk-Show: Reinventando a Comédia (2019) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
     { name: "Talvez uma História de Amor (2018) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
     { name: "Tammy: Fora de Controle (2014) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
+    { name: "Te Pego la Fora (1987) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
     { name: "Te Pego na Saída (2017) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
     { name: "Te Peguei! (2018) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
     { name: "Te quiero, imbécil (2020) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
