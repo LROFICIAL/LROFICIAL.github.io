@@ -1227,6 +1227,7 @@ const data = [
     { name: "As Apimentadas: Tudo ou Nada (2006) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
     { name: "As Branquelas (2004) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
     { name: "As Excluídas (2017) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
+    { name: "As bem Armadas (2013) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
     { name: "As Loucuras de Dick & Jane (2005) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
     { name: "As Patricinhas de Beverly Hills (1995) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
     { name: "As Rainhas da Torcida (2019) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
