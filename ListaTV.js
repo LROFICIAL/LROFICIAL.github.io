@@ -1818,6 +1818,7 @@ const data = [
     { name: "Trocando as Bolas (1983) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
     { name: "Troco em Dobro (2020) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
     { name: "Tropa Zero (2019) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
+    { name: "Trovão Tropical (2008) [Disponível categoria Filmes: Comédia e Ação] ✔️", defaultColor: "green", color: "green" },
     { name: "Três Solteirões e um Bebê (1987) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
     { name: "Tudo de Novo (2020) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
     { name: "Tudo para Ficar com Ela (2014) [Disponível categoria Filmes: Comédia] ✔️", defaultColor: "green", color: "green" },
