@@ -5234,6 +5234,7 @@ const data = [
 	{ name: "CODE GEASS (2006) [Disponível em: ANIMES] ✔️", defaultColor: "green", color: "green" },
 	{ name: "CYBERPUNK EDGERUNNERS (2022) [Disponível em: ANIMES] ✔️", defaultColor: "green", color: "green" },
 	{ name: "CYBORG 009: CALL OF JUSTICE (2017) [Disponível em: ANIMES] ✔️", defaultColor: "green", color: "green" },
+	{ name: "DAN DAN DAN (2024) [Disponível em: ANIMES] ✔️", defaultColor: "green", color: "green" },
 	{ name: "DEATH NOTE (2006) [Disponível em: ANIMES] ✔️", defaultColor: "green", color: "green" },
 	{ name: "DEATTE 5-BYOU DE BATTLE (2021) [Disponível em: ANIMES] ✔️", defaultColor: "green", color: "green" },
 	{ name: "DEMON SLAYER (2019) [Disponível em: ANIMES] ✔️", defaultColor: "green", color: "green" },
