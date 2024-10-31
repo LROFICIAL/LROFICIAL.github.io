@@ -5304,6 +5304,7 @@ const data = [
 	{ name: "MASAMUNE-KUN NO REVENGE (2023) [Disponível em: ANIMES] ✔️", defaultColor: "green", color: "green" },
 	{ name: "MASHLE: MAGIA E MUSCULOS (2023) [Disponível em: ANIMES] ✔️", defaultColor: "green", color: "green" },
 	{ name: "MATO SEIHEI NO SLAVE (2024) [Disponível em: ANIMES] ✔️", defaultColor: "green", color: "green" },
+	{ name: "MECHA-UDE: MECHANICAL ARMS(2024) [Disponível em: ANIMES] ✔️", defaultColor: "green", color: "green" },
 	{ name: "MEDABOTS (1999) [Disponível em: ANIMES] ✔️", defaultColor: "green", color: "green" },
 	{ name: "MIERUKO-CHAN (2021) [Disponível em: ANIMES] ✔️", defaultColor: "green", color: "green" },
 	{ name: "MOB PSYCHO 100 (2016) [Disponível em: ANIMES] ✔️", defaultColor: "green", color: "green" },
