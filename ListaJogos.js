@@ -798,6 +798,7 @@ const data = [
     { name: "SOLDIER OF FORTUNE PAYBACK ✔️", defaultColor: "green", color: "green" },
     { name: "SUPER STREET FIGHTER IV ✔️", defaultColor: "green", color: "green" },
     { name: "TALES FROM THE BORDERLANDS [PT-BR] ✔️", defaultColor: "green", color: "green" },
+    { name: "TALES OF BERSERIA [JP] ✔️", defaultColor: "green", color: "green" },
     { name: "TERMINATOR SALVATION [LEG PT-BR] ✔️", defaultColor: "green", color: "green" },
     { name: "TERRA MÉDIA - SOMBRAS DE MORDOR [PT-BR] ✔️", defaultColor: "green", color: "green" },
     { name: "SHADOW OF MORDOR [PT-BR] ✔️", defaultColor: "green", color: "green" },
